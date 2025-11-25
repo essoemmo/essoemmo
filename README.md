@@ -7,6 +7,8 @@
 <p align="center">
   <b>Experienced Software Developer focused on building robust back-end systems and dynamic front-end interfaces.</b><br>
   Specialized in the Laravel ecosystem and modern JavaScript frameworks including Vue and Nuxt.
+  I started by building ERP and accounting systems. Now I focus on Laravel, Vue.js, microservices, and Agile delivery. I have also integrated Large Language Models into production to automate workflows and improve user experience.
+  I started by building ERP and accounting systems. Now I focus on Laravel, Vue.js, microservices, and Agile delivery. I have also integrated Large Language Models into production to automate workflows and improve user experience.
 </p>
 
 <p align="center">
