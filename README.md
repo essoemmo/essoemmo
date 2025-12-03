@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Essam Emara</h1>
+<h1 align="center">Hi 👋, I'm Esam Emara</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=Senior+Software+Developer;PHP+%26+Laravel+Specialist;Vue.js+%26+Nuxt.js+Expert;System+Architecture" alt="Typing SVG" />
